@@ -1,0 +1,33 @@
+_repo: Notes-sur-l-Amour_68821
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anet, Claude
+    alias: Schopfer, Jean
+    birthdate: 1868
+    deathdate: 1931
+    gutenberg_agent_id: '8829'
+    url: http://www.gutenberg.org/2009/agents/8829
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Schopfer
+    - https://fr.wikipedia.org/wiki/Claude_Anet
+description: ''
+gutenberg_issued: '2022-08-23'
+identifiers:
+  gutenberg: '68821'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k5477244x
+pgterms:marc905: 20211218003722anet
+pgterms:marc906: '1908'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: France :Librairie Charpentier et Fasquelle,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Notes sur l'Amour
+url: http://www.gutenberg.org/ebooks/68821
