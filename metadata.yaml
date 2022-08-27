@@ -1,5 +1,8 @@
 _repo: Notes-sur-l-Amour_68821
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68821-h/images/cover.jpg
 creator:
   author:
     agent_name: Anet, Claude
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Schopfer
     - https://fr.wikipedia.org/wiki/Claude_Anet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68821#Notes-sur-l-Amour
 gutenberg_issued: '2022-08-23'
 identifiers:
   gutenberg: '68821'
